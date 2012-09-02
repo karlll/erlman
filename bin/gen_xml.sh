@@ -1,5 +1,4 @@
 #!/bin/bash
-set -e
 
 SCRIPT_DIR="$( cd -P "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 OTP_ROOT="/usr/local/Cellar/erlang/R15B01/lib/erlang/" # Set this to your OTP installation
